@@ -115,6 +115,10 @@ color: #2e2f42;
 text-transform: capitalize;
 }
 
+.team-members {
+    background-color: #fff;
+}
+
 .member-title {
 font-weight: 500;
 font-size: 20px;
