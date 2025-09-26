@@ -73,7 +73,6 @@ color: #fff;
 }
 
 .hero-btn {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background-color: #4d5ae5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -123,7 +122,6 @@ line-height: 120%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
-text-transform: capitalize
 }
 
 .member-description {
@@ -139,6 +137,7 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize
 }
 
 .portfolio-item-title {
